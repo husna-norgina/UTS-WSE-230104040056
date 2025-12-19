@@ -21,7 +21,7 @@ API menerapkan **CRUD lengkap**, **validasi input**, **error handling**, serta *
 | Resource           | events                                                             |
 | Field Utama        | title, date, location                                              |
 | Repo GitHub        | https://github.com/husna-norgina/UTS-WSE-230104040056              |
-| Tanggal Praktikum  | 01-12-2025                                                         |  
+| Tanggal Praktikum  | 10-11-2025                                                         |  
 
 ---
 
@@ -173,7 +173,7 @@ Server merespons status `200 OK`.
 
 ## 📄 Laporan UTS
 
-[230104040056_Husna_Norgina_UTS.pdf](evidence/230104040056_Husna_Norgina_UTS.pdf)
+[230104040056_Husna_Norgina_UTS.pdf](<evidence/230104040056_Husna_Norgina_UTS.pdf>)
 
 ---
 
@@ -203,7 +203,7 @@ Berdasarkan hasil UTS, RESTful API untuk resource **events** berhasil dibangun m
 
 * Data disimpan sementara (in-memory).
 * Pengujian dilakukan menggunakan Postman.
-* API dikembangkan untuk keperluan ujian dan pembelajaran.
+* API dikembangkan untuk keperluan UTS dan pembelajaran.
 
 ---
 
